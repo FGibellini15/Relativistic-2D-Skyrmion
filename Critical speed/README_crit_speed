@@ -1,0 +1,3 @@
+The critical speed is computed with Evaluate_crit_speed.m
+The data are plotted  by plotter_crit.
+All other files are functions employed by the aforementioned, numerical skyrmion textures or sample data.
